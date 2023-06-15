@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/MDS6/hoax_scraping/hoax.png" width="500" height="250">
+<img src="https://github.com/hoax_sraping/hoax.png" width="500" height="250">
 
 # Kumpulan Berita Hoax 
 
@@ -32,9 +32,6 @@ Berikut ini adalah contoh dokumen yang berhasil dikumpulkan pada MongoDB Atlas
   "tanggal":"12-06-2023"}
 }] 
 ```
-## :scroll: Deskripsi
-
-Project ini berfungsi untuk mengetahui berita hoax apasaja yang beredar di dunia maya, bersumber dari [sumber](https://www.https://www.kominfo.go.id/)
 
 ## :man_technologist: Pengembang
 
