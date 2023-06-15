@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/hoax_sraping/hoax.png" width="500" height="250">
+<img src="https://github.com/setyo83/hoax_scraping/blob/main/hoax.png" width="500" height="250">
 
 # Kumpulan Berita Hoax 
 
